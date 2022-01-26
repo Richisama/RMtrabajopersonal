@@ -243,3 +243,8 @@ flights_dt %>%
 # Se puede deducir que a lo largo del transcurso del día, los vuelos cada vez se atrasan más en su salida. Esto parece que de madrugada se vuelve a normalizar y empieza otra vez a elevarse a partir de las 5 de la mañana.
 ```
 
+```{r}
+sessionInfo()
+```
+
+## link de GitHub: https://github.com/Richisama/RMtrabajopersonal.git
